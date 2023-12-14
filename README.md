@@ -1,3 +1,6 @@
+# README
+this repo was used to follow https://www.youtube.com/watch?v=qP8kir2GUgo
+
 # Python Flask - Demo Web Application
 
 This is a simple Python Flask web application. The app provides system information and a realtime monitoring screen with dials showing CPU, memory, IO and process information.
